@@ -1,10 +1,14 @@
-# movie_info
+# movie_info_app
 
-A new Flutter project.
+A new Flutter App based on finding Popular and Top Rated Movies and TV shows.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Movie_Info App Contains three different Screens...
+
+1. In the First Screen it shows a welcome page
+<h3 align="center">Welcome Page</h3>
+<img align ="center" alt="welcome page" src="/readme_images/welcomepage.jpg">
 
 A few resources to get you started if this is your first Flutter project:
 
